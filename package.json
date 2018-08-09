@@ -64,6 +64,8 @@
     "strip-bom": "^2.0.0"
   },
   "files": [
-    "lib"
+    "lib",
+    "src",
+    "test"
   ]
 }
