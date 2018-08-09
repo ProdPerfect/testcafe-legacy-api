@@ -1,7 +1,7 @@
 import path from 'path';
 import { readSync as read } from 'read-file-relative';
 import Mustache from 'mustache';
-import { Session } from 'testcafe-hammerhead';
+import { Session } from 'prodperfect-testcafe-hammerhead';
 import COMMAND from './command';
 import ERROR_TYPE from '../test-run-error/type';
 import TestRunErrorFormattableAdapter from '../test-run-error/formattable-adapter';
